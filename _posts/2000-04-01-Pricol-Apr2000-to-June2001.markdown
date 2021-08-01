@@ -4,16 +4,17 @@ title:  "PRICOL - Premier Instuments & Controls, Nov1999 to Apr2000"
 author: "Ujjal Chakraborty"
 permalink: "/myProjects/PRICOL"
 ---
-Role: SAP SD Lead Consultant, Sales & Distribution Module ,  Locatiom: Coimbatore, India
+
+>Role: SAP SD Lead Consultant, Sales & Distribution Module ,  Location: Coimbatore, India |
 Industry: Auto Component Manufacturing
 
-Project details
-SAP R/3 4.0B ; B2C Application development in Logistic execution
+### Project details
+- SAP R/3 4.0B ; B2C Application development in Logistic execution
 
-Responsibilities/Deliverables
-    Responsible for all project deliverables, time lines and budgets
-    Lead SD & Logistic team of 12 consultants and 18 developers in mapping Demand Management in  OE , Replacement Market & Export Channels for Auto , Defence & Electronic divisions
-    Developed Rollout plans for Satellite Plants (Satcos)
-    Overall Client management & responsible for program managing ongoing Rollout project
-    Configured Operation Planning, Return processing & Inter Plant logistic processing for Pricol’s worldwide operations.
-    Developed Technical Specs for all Objects for Pricols Top Management Reporting dashboard requirements.
+### Responsibilities/Deliverables
+- Responsible for all project deliverables, time lines and budgets
+- Lead SD & Logistic team of 12 consultants and 18 developers in mapping Demand Management in  OE , Replacement Market & Export Channels for Auto , Defence & Electronic divisions
+- Developed Rollout plans for Satellite Plants (Satcos)
+- Overall Client management & responsible for program managing ongoing Rollout project
+- Configured Operation Planning, Return processing & Inter Plant logistic processing for Pricol’s worldwide operations.
+- Developed Technical Specs for all Objects for Pricols Top Management Reporting dashboard requirements.

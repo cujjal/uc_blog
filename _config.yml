@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Profile - Ujjal Chakraborty
+title: Ujjal Chakraborty
 email: ujjal.raja.c@gmail.com
 description: Principal Director, SAP AG (India)
-baseurl: "uc_blog" # the subpath of your site, e.g. /blog
+baseurl: "/uc_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: UjjalChakraborty
 github_username:  cujjal
