@@ -3,6 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+Profile Summary
 
 Ujjal was appointed as CEO - to Lead Strategic Advisory & Business Solution and Transformation initiatives at JD Software Consulting with primary objective of enhancing its “Market-Maker” role in deployment of new application & technology solutions across various industry verticals, and maintaining the Company’s leadership position in the market.
 
@@ -29,3 +30,78 @@ Ujjal set up a research desk for implementing marketing aspect of product divers
 Other significant assignments, during this tenure with Tata-engineering also include – his involvement in cash-flow & ROI calculation for tata-liebherr, Tata-John Deere, tata-hitachi collaboration & being part of the successful GDR team for Euro-Issue of Bond Receipts
 
 His major industry contribution also includes, blank cheque processing with auto credit/debit adjustments for stockiest with full traction of Loan/License for subcontracting vendor, Valuation controls for replacement goods for customer returns on MRP driven retail price points and adjustment controls on discounts with respect to claims at brand levels, – Inventorzing production variants & cost rollups of FG at batch level with active ingredients calculation for Pharma business at Brand level for segmental reporting.
+
+Education
+
+Indian Institute of Technology
+Bachelor of Technology (B.Tech) Mechanical Engineering
+Dhanbad, India
+July 1996 to April 1990
+
+Technical Skills & Expertise
+
+ERP SAP Software & Service Delivery – Solution Design & Build digital ecosystem by providing framework standards & design guidelines for Integrated
+
+Enterprise Architect with Automation tools , viz NODE.JS, DOCKER, CHEF, JENKINS, CDN
+
+Solution Architecture in .Net Stack, Java & MS SQL/ASP/ABAP Stack, C#, JScript, Shell, PHP, Ruby, Python, IOT MSP Arduino , OpenCV and Reinforcement Learning in AI space.
+
+Interfaces ALE-iDoc, m/s bDocs, APO CIF(Core Interface), CRM Middleware, xml-SOAP , BSP, JSP, ASP
+
+Cloud-Computing: GEIT Tier 3+ DC , Enterprise Class CMDB, ITIL-V3 Process automation and integration, Cloud pooling with auto-provisioning of VPDC; Threat, Log, DDoS Security Mitigation services using Nexus1000V Port Profile ACL, Policy enforcement, SSL acceleration & ACL with VMsafe Infrastructure Firewall Ø   Dynamic Network and Server Load Balancing with VMWare ESX, Distributed dynamic resource scheduling with Nexus FCoE ensuring reserved bandwidth , Service QoS
+
+Designed , end to end Business to Operation Integration of On-Demand Cloud Infrastructure and Hosted Enterprise Solutions with Savvis,  Rackspace and AWS ; Architected , Unilever NGDMS Cloud computing and hosting services with integrated/hybrid to fully virtualized Multi-Tenanted and dedicated private cloud solutions for Unilever Distributors & RS Stockiest across geography ; covering Cloud Solutions of: Managed Applications, Web Hosting, Hosted SAP Hana with SaaS enablement, Business continuity, Content Management and Proximity hosting with Cloud Services of: Colocation based Intelligent monitoring, Dedicated Managed hosting, Open Multi-tenant to dedicated Virtual private (VPDC) cloud infrastructure, Managed storage/backup, Managed Security & Networks
+
+HandsOn SAP SPRO Design of SD, CS, PS, PM, MM, FI-CO Module,
+SAP CRM Sales,Service(CIC),Marketing - Mobile,Tele&Internet channels
+
+Management Skills & Expertise
+
+Trusted Advisory for key Global Accounts – enabling strategic transactions, group facilitator among strong capable leaders and successful team players.
+
+P&L Management, Negotiation and Closure, Legal and Litigation risk review and regulatory compliances. Revenue based Value services, Risk Assessment & Revenue Forecasts from Concept to Deployment. Team development, incentive & recognition practices in business operations.
+
+Business strategy enablement with aligned IT strategy.      
+SAP Consulting and Business Transformation, Organizational design and change Management, MTN Peer Analysis, M&A, succession planning, knowledge management.
+
+Business Planning & Strategic Enterprise Management. Key Account planning & Management, managing network and key account relationships
+
+ERP SAP Sales - software & services, productized services. Business Development - Value Consulting (Business Consulting)
+
+COE , PMI PMO Programs & Industry/LOB Practice Management for Target Business Process value-delivery using ARIS & PEGA-PRPC process commander tools.
+
+GTM for Product & Portfolio Services, Brand building and Alliance Management.
+
+Financial Consolidation, Business Intelligence, CRM CIC Web-Client to integrate PDA based SFA tool Quantum with core enterprise to manage trade spends for brand input briefs for managing Hindustan Levers HLL TPM Trade Promotion requirements
+
+Design Thinking in areas of predictive modeling, data science, data mining, pattern recognition,  visualization, including designing, coding and testing applications of ML, computational linguistics, NLP, advanced and semantic information search, extraction, induction, classification and assists in improving algorithms creating better user experience with high performance, security, quality, and stability
+
+Industry Skills & Expertise
+
+Industry & Technology expertise – CPG, Retails, Telecom, Hi-Tech, Automotive, Discreet Mfg and Professional Service
+
+Thought leadership in CPG Logistics, Distribution and SupplyNet planning value space - Demand & Distribution Planning, DBM - Dealer Business Management
+
+expert Advisor for ULL, ABB, ITC, Dabur, Tata-Telecom, US Robotics, 3-Com/Palm Inc. & host of automotive, apparels, HiTech, Prof-Services, Telco & Discreet Mfg. industry & Lead- managed Colgate-Palmolive Instance Consolidation program for Asia-PAC region
+
+Major industry contribution also includes, blank cheque processing with auto credit/debit adjustments for stockiest with full traction of Loan/License for subcontracting vendor, Valuation controls for replacement goods for customer returns on MRP driven retail price points and adjustment controls on discounts with respect to claims at brand levels, – Inventorzing production variants & cost rollups of FG at batch level with active ingredients calculation for Pharma business at Brand level for segmental reporting.
+
+Domain Skills & Expertise
+
+SAP ERP, CRM, SCM-APO , CLP/PLM & BI Predictive Analytics in designing Business decision support solutions.
+
+Distribution cost optimization within Transportation Lanes for APO: DP, SNP, TMS/TPVS, DS initiatives at Unilevers Fusion and Unity programs
+
+successfully implemented ICH & HANA/Netweaver based Composites: CAF-GP for their AP procedures and adopt OTO Charm for one transport layer for java & sql stack related Unilever Change Management issues
+
+Architected & Program Directed, global NG DMS program – Next Gen Distributor Management System , integrating 2800+ Unilever re-distributors stockiest (catering 0.6 Million Retailers) DMS systems with backend Unilever OEM systems - spread across 70 countries in 5 continents across culture, timezone & currencies.
+
+Architected M&M DBM “Dealer Business Management” solution for their automotive dealers; Designed “Secondary Sales Business” solution deploying BPM – Business Process Management based for yet another leading CPG account in India for their Distributor Business Management in the domain of Collaborative CRM solution for Supply Chain Logistics
+
+Goals
+
+Lead & scale non-linear business;
+
+Consolidate Global Knowledge Center of Excellence;
+
+Constantly challenge thinking, get stretched intellectually, cultivate talent and enabling team to succeed in aggregating stakeholder value with obsessive focus on customer satisfaction.
